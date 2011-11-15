@@ -1,0 +1,11 @@
+Package: HMDget
+Type: Package
+Title: What the package does (short line)
+Version: 1.24
+Date: 2011-07-11
+Author: Tim Riffe
+Maintainer: Tim Riffe <tim.riffe@gmail.com>
+Depends: RCurl
+Description: get data from the Human Mortality Database into R!
+License: General Public
+LazyLoad: yes
