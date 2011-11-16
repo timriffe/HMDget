@@ -9,7 +9,7 @@ Data can be accessed either directly from the web, using your username and passw
 \tabular{ll}{
 Package: \tab HMDget\cr
 Type: \tab Package\cr
-Version: \tab 1.24\cr
+Version: \tab 1.25\cr
 Date: \tab 2011-07-11\cr
 License: \tab General Public\cr
 LazyLoad: \tab yes\cr
