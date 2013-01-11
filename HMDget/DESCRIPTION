@@ -1,8 +1,8 @@
 Package: HMDget
 Type: Package
 Title: get data from the Human Mortality Database into R!
-Version: 1.25
-Date: 2011-11-16
+Version: 1.26
+Date: 2013-01-10
 Author: Tim Riffe
 Maintainer: Tim Riffe <tim.riffe@gmail.com>
 Depends: 
