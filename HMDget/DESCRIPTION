@@ -5,7 +5,10 @@ Version: 1.25
 Date: 2011-11-16
 Author: Tim Riffe
 Maintainer: Tim Riffe <tim.riffe@gmail.com>
-Depends: RCurl
+Depends: 
+	utils
 Description: get data from the Human Mortality Database into R!
+Imports:
+	RCurl
 License: GPL-2
 LazyLoad: yes

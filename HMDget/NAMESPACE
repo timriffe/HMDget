@@ -1,1 +1,3 @@
 exportPattern("^[[:alpha:]]+")
+importFrom(RCurl, getCurlHandle)
+importFrom(RCurl, getURL)
